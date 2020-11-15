@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <!--Device Trees-->
+    <project path="device/nubia/nx549j" name="DzmitryMikhalap/android_device_nubia_nx549j" remote="github" />
+	<project path="device/nubia/msm8953-common" name="DzmitryMikhalap/android_device_nubia_msm8953-common" remote="github" />
+
+    <!--Kernel-->
+    <project path="kernel/nubia/msm8953" name="DzmitryMikhalap/android_kernel_nubia_msm8953" remote="github" />
+
+    <!-- Vendor folders -->
+    <project path="vendor/nubia" name="DzmitryMikhalap/android_vendor_nubia" remote="github" />
+</manifest>
